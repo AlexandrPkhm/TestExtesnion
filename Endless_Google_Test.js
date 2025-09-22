@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Endless Google Test extension
-// @description     Load more results automatically and endlessly (version +1).
+// @description     Load more results automatically and endlessly (version +2).
 // @author          tumpio
 // @namespace       tumpio@sci.fi
 // @homepageURL     https://openuserjs.org/scripts/tumpio/Endless_Google
@@ -10,7 +10,7 @@
 // @include         https://www.google.*
 // @include         https://encrypted.google.*
 // @run-at          document-start
-// @version         0.0.9
+// @version         0.0.10
 // @license         MIT
 // @noframes
 // ==/UserScript==
